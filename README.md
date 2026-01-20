@@ -164,7 +164,7 @@ systemctl --user disable auto-mcd-coupon.timer
 systemctl --user start auto-mcd-coupon.service
 ```
 
-**执行时间：** 每天上午 10:00 自动运行
+**执行时间：** 每天上午 10:45 自动运行
 
 ---
 
